@@ -12,7 +12,7 @@ I sit at the intersection of enterprise sales and solution architecture — I cl
 
 - Design end-to-end solution architecture for enterprise logistics deployments
 - Deliver full pre-sales cycles: discovery → PoC → demo → sign-off
-- Write 25-page BRDs that engineering teams can actually build from
+- Write Extenstive BRDs that engineering teams can actually build from
 - Integrate ERP systems across **SAP · Oracle · Microsoft Dynamics · Infor**
 - Test APIs in Postman, configure webhooks, map payload requirements
 - Respond to RFPs and RFIs via **SAP Ariba**
